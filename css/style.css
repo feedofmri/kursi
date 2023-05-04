@@ -1,17 +1,5 @@
-/**
- * WEBSITE: https://themefisher.com
- * TWITTER: https://twitter.com/themefisher
- * FACEBOOK: https://www.facebook.com/themefisher
- * GITHUB: https://github.com/themefisher/
- */
-
 @charset "UTF-8";
-/*!
- * Bootstrap v5.0.2 (https://getbootstrap.com/)
- * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -8882,7 +8870,7 @@ a:hover {
 }
 
 .bg-secondary {
-  background: #917AEB !important;
+  background: #607CF4 !important;
 }
 
 .bg-secondary-light {
@@ -9483,8 +9471,8 @@ blockquote::before {
   }
 }
 .service-item:nth-child(even) .colored-box {
-  color: #917AEB;
-  background-color: rgba(145, 122, 235, 0.2);
+  color: #607CF4;
+  background-color: rgba(174, 195, 255, 0.2);
 }
 .service-item:hover {
   border-color: transparent;
@@ -9519,8 +9507,8 @@ blockquote::before {
   line-height: 85px;
   text-align: center;
   border-radius: 8px;
-  color: #917AEB;
-  background-color: rgba(145, 122, 235, 0.1);
+  color: #607CF4;
+  background-color: rgba(174, 195, 255, 0.1);
 }
 .difference-of-us-item:nth-child(even) .icon {
   color: #00875F;
